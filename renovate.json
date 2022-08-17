@@ -1,1 +1,8 @@
-{}
+{
+  "packageRules": [
+    {
+      "matchPackageNames": ["delay"],
+      "labels": ["label:delay"]
+    }
+  ]
+}
